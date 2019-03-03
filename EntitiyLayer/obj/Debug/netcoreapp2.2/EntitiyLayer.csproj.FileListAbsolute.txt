@@ -1,0 +1,8 @@
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\EntitiyLayer\bin\Debug\netcoreapp2.2\EntitiyLayer.deps.json
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\EntitiyLayer\bin\Debug\netcoreapp2.2\EntitiyLayer.dll
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\EntitiyLayer\bin\Debug\netcoreapp2.2\EntitiyLayer.pdb
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\EntitiyLayer\obj\Debug\netcoreapp2.2\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\EntitiyLayer\obj\Debug\netcoreapp2.2\EntitiyLayer.AssemblyInfoInputs.cache
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\EntitiyLayer\obj\Debug\netcoreapp2.2\EntitiyLayer.AssemblyInfo.cs
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\EntitiyLayer\obj\Debug\netcoreapp2.2\EntitiyLayer.dll
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\EntitiyLayer\obj\Debug\netcoreapp2.2\EntitiyLayer.pdb

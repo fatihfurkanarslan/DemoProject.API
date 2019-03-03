@@ -1,0 +1,14 @@
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DataAccessLayer\obj\Debug\netcoreapp2.2\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DataAccessLayer\obj\Debug\netcoreapp2.2\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DataAccessLayer\obj\Debug\netcoreapp2.2\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DataAccessLayer\obj\Debug\netcoreapp2.2\DataAccessLayer.AssemblyInfo.cs
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DataAccessLayer\bin\Debug\netcoreapp2.2\DataAccessLayer.deps.json
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DataAccessLayer\bin\Debug\netcoreapp2.2\DataAccessLayer.dll
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DataAccessLayer\bin\Debug\netcoreapp2.2\DataAccessLayer.pdb
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DataAccessLayer\bin\Debug\netcoreapp2.2\EntitiyLayer.dll
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DataAccessLayer\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Hosting.dll
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DataAccessLayer\bin\Debug\netcoreapp2.2\EntitiyLayer.pdb
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DataAccessLayer\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Hosting.xml
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DataAccessLayer\obj\Debug\netcoreapp2.2\DataAccessLayer.csproj.CopyComplete
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DataAccessLayer\obj\Debug\netcoreapp2.2\DataAccessLayer.dll
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DataAccessLayer\obj\Debug\netcoreapp2.2\DataAccessLayer.pdb

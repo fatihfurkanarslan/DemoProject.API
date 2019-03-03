@@ -1,0 +1,14 @@
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DemoProject.API\bin\Debug\netcoreapp2.2\DemoProject.API.deps.json
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DemoProject.API\bin\Debug\netcoreapp2.2\DemoProject.API.runtimeconfig.json
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DemoProject.API\bin\Debug\netcoreapp2.2\DemoProject.API.runtimeconfig.dev.json
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DemoProject.API\bin\Debug\netcoreapp2.2\DemoProject.API.dll
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DemoProject.API\bin\Debug\netcoreapp2.2\DemoProject.API.pdb
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DemoProject.API\obj\Debug\netcoreapp2.2\DemoProject.API.csprojAssemblyReference.cache
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DemoProject.API\obj\Debug\netcoreapp2.2\DemoProject.API.csproj.CoreCompileInputs.cache
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DemoProject.API\obj\Debug\netcoreapp2.2\DemoProject.API.RazorAssemblyInfo.cache
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DemoProject.API\obj\Debug\netcoreapp2.2\DemoProject.API.RazorAssemblyInfo.cs
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DemoProject.API\obj\Debug\netcoreapp2.2\DemoProject.API.AssemblyInfoInputs.cache
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DemoProject.API\obj\Debug\netcoreapp2.2\DemoProject.API.AssemblyInfo.cs
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DemoProject.API\obj\Debug\netcoreapp2.2\DemoProject.API.RazorTargetAssemblyInfo.cache
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DemoProject.API\obj\Debug\netcoreapp2.2\DemoProject.API.dll
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\source\repos\DemoProject.API\DemoProject.API\obj\Debug\netcoreapp2.2\DemoProject.API.pdb
